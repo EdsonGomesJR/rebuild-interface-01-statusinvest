@@ -1,7 +1,7 @@
 import {FaArrowDown, FaArrowRight} from 'react-icons/fa'
 export function StocksHeader() {
   return (
-    <div className="flex flex-col gap-4 max-w-[922px] w-full p-2">
+    <div className="flex flex-col gap-4 max-w-[1140px] w-full p-2">
        <div className="flex justify-between w-full gap-2">
         <div className='flex items-center gap-3'>
 
